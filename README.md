@@ -19,6 +19,21 @@ Live Shahi.
 👨‍🏫 Education <br />
 🤖 Game <br />
 
-`[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimrayatparvar&langs_count=8)
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats">
+ `[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
+ </a>
+</p>
+
+<p align="center">
+ <a href="#" alt="Moien Tajik's github stats">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimrayatparvar&langs_count=8)
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/MoienTajik" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
