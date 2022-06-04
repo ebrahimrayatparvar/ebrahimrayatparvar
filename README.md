@@ -19,9 +19,12 @@ Live Shahi.
 👨‍🏫 Education <br />
 🤖 Game <br />
 
+</br>
 
 <p align="center">
- ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
+ <a href="#" alt="Moien Tajik's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimrayatparvar&theme=tokyonight&show_icons=true" />
+ </a>
 </p>
 
 <p align="center">
