@@ -21,13 +21,6 @@ Live Shahi.
 
 </br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimrayatparvar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ebrahimrayatparvar&repo=convoychat" />
-</a>
-
 
 <p align="center">
  <a href="#" alt="Moien Tajik's github stats">
