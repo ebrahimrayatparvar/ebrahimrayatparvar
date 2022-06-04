@@ -5,9 +5,9 @@ i'm Ebrahim RT.
 C # ِDeveloper, love to play and exercise, and I enjoy touring.
 Live Shahi.
 
-👨‍💻 Developer
-👨‍🏫 Education
-🤖 Game
+👨‍💻 Developer <br />
+👨‍🏫 Education <br />
+🤖 Game <br />
 
 `[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
 
