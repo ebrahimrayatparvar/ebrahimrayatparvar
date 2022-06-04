@@ -27,9 +27,7 @@ Live Shahi.
  </a>
 </p>
 
-<p align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimrayatparvar&langs_count=8)
-</p>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/MoienTajik" target="_blank">
