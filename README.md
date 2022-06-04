@@ -21,15 +21,11 @@ Live Shahi.
 
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
- `[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
- </a>
+ ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ebrahimrayatparvar?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
 </p>
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimrayatparvar&langs_count=8)
- </a>
 </p>
 
 <p align="center">
