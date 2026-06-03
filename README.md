@@ -23,19 +23,6 @@ Live Shahi.
 
 
 <p align="center">
- <a href="#" alt="Moien Tajik's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimrayatparvar&theme=tokyonight&show_icons=true" />
- </a>
-</p>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahimrayatparvar&langs_count=8)
-
-<p align="center">
-  <a href="https://coffeebede.ir/buycoffee/zangclass">
-  <img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-</p>
-
-<p align="center">
  <a href="https://www.buymeacoffee.com/ebrahimRT" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
