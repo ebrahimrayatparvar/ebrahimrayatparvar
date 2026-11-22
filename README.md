@@ -7,8 +7,7 @@
 **Building solutions • Sharing knowledge • Enjoying the game**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebrahimrayatparvar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-rayatparvar-talooki-492781122/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/EbrahimRT1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-rayatparvar-talouki-492781122/)
 
 </div>
 
@@ -16,16 +15,20 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ebrahim RT**, a passionate **.NET Developer** and **Educator**.
+I'm **Ebrahim RT**, a passionate **.NET Developer** and **Educator** who enjoys building practical software solutions and sharing programming knowledge.
 
-- 🔭 Working with **C#, ASP.NET Core & SQL Server**
-- 👨‍🏫 Sharing programming knowledge and helping others grow
-- 🚀 Interested in backend development, APIs and software architecture
-- 🎮 Gamer in my free time
-- 🏐 Volleyball & ⚽ Football enthusiast
-- 🌍 Enjoy traveling and exploring new places
+- 💻 **Development:** C#, .NET, ASP.NET Core
+- 🗄️ **Database:** Microsoft SQL Server
+- 🔧 **Interests:** Backend Development, REST APIs & Software Architecture
+- 👨‍🏫 **Education:** Sharing knowledge and helping developers grow
+- 🚀 **Mindset:** Always learning and improving
+- 🎮 **Gaming:** Exploring virtual worlds in my free time
+- 🏐 **Sports:** Volleyball & Football ⚽
+- 🌍 **Lifestyle:** Traveling and exploring new places
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -54,6 +57,8 @@ I'm **Ebrahim RT**, a passionate **.NET Developer** and **Educator**.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ebrahimrayatparvar&theme=github_dark&utcOffset=3.5" width="49%" alt="Productive Time" />
 
 </div>
+
+---
 
 ## 🧩 Programming Languages
 
@@ -90,19 +95,31 @@ I'm **Ebrahim RT**, a passionate **.NET Developer** and **Educator**.
 
 ### 🔎 Explore My Repositories
 
+<div align="center">
+
 [![Repositories](https://img.shields.io/badge/Explore_My_Projects-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ebrahimrayatparvar?tab=repositories)
+
+</div>
 
 ---
 
 ## 👨‍🏫 Teaching & Knowledge Sharing
 
-> Learning becomes more valuable when knowledge is shared.
+> **Learning becomes more valuable when knowledge is shared.**
 
-I enjoy teaching software development, explaining programming concepts, and helping developers build practical skills.
+I believe programming is more than writing code. It's about solving problems, sharing experiences, and helping others grow.
+
+I enjoy exploring software development concepts and making technical knowledge easier to understand.
+
+---
 
 ## 🎮 Life Beyond Code
 
-Gaming 🎮 &nbsp; • &nbsp; Volleyball 🏐 &nbsp; • &nbsp; Football ⚽ &nbsp; • &nbsp; Traveling 🌍
+<div align="center">
+
+**🎮 Gaming** &nbsp; • &nbsp; **🏐 Volleyball** &nbsp; • &nbsp; **⚽ Football** &nbsp; • &nbsp; **🌍 Traveling**
+
+</div>
 
 ---
 
@@ -110,11 +127,17 @@ Gaming 🎮 &nbsp; • &nbsp; Volleyball 🏐 &nbsp; • &nbsp; Football ⚽ &nb
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-rayatparvar-talooki-492781122/)
+I'm always happy to connect with fellow developers, learners, and tech enthusiasts!
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-rayatparvar-talouki-492781122/)
 
 ### ☕ Support My Work
 
+If you enjoy my projects or find my educational content helpful, you can support my work with a coffee.
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/ebrahimRT)
+
+---
 
 **✨ Keep Learning • Keep Building • Keep Playing ✨**
 
