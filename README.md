@@ -135,7 +135,7 @@ I'm always happy to connect with fellow developers, learners, and tech enthusias
 
 If you enjoy my projects or find my educational content helpful, you can support my work with a coffee.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)]([https://www.buymeacoffee.com/ebrahimRT](https://reymit.ir/rayat_teams))
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://reymit.ir/rayat_teams)
 
 ---
 
